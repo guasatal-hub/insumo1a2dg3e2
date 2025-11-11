@@ -3,7 +3,7 @@ export default function RootLayout() {
  return(
 <Stack screenOptions={{headerShown: false}}>
 <Stack.Screen name="index" options={{headerShown: false}}/>
-<Stack.Screen name="pokedex" options={{headerShown: false}}/>
+<Stack.Screen name="registro" options={{headerShown: false}}/>
 </Stack>
  )
 }
